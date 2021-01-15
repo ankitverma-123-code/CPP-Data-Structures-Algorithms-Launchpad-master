@@ -1,0 +1,1 @@
+{"name":"Local: BFSpathShort","url":"c:\\Users\\Lenovo\\Desktop\\compy\\BFSpathShort.cpp","tests":[{"id":1610737090808,"input":"6\n1 2\n1 3\n2 4\n3 4\n1 5\n5 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Lenovo\\Desktop\\compy\\BFSpathShort.cpp","group":"local","local":true}
